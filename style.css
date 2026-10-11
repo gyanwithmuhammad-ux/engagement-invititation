@@ -62,7 +62,7 @@ body {
 
 /* ===================== HERO ===================== */
 .hero {
-  height: 100vh;
+  height: auto;
   background: radial-gradient(circle at top, #fff6f9, #fdfbf7);
   display: flex;
   align-items: center;
