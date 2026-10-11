@@ -885,3 +885,8 @@ body {
   z-index: -1;
   pointer-events: none;
 }
+.last{
+  font-size: 1.5rem;
+  line-height: 1.9;
+  color: #4b3a2f;
+}
