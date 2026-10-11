@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
 
   /* ===================== TYPEWRITER ===================== */
-  const namesText = "Enamul  &   Zarin ";
+  const namesText = "Enamul  &   Sharmin ";
   const namesElement = document.getElementById("names");
   let typeIndex = 0;
 
