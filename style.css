@@ -217,6 +217,7 @@ body {
 }
 
 .story-text.dua {
+  font-weight:400;
   margin-top: 30px;
   font-style: italic;
   color: #6b4c3b;
