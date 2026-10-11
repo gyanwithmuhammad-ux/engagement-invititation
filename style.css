@@ -376,7 +376,8 @@ body {
 }
 
 .map-hint {
-  font-size: 0.9rem;
+  font-weight:400;
+  font-size: 1.0rem;
   color: #8b6a4f;
   margin-top: 10px;
   font-style: italic;
